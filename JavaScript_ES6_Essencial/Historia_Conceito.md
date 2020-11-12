@@ -41,7 +41,7 @@
 
  >Ele vem para manter e atualizar os padrões do ECMAScript que é no projeto ECMA262.
 
- >Ele indentifica, desenvolve e mantém padrões para as bibliotecas que estende as features do ECMAScript (ECMA402)
+ >Ele identifica, desenvolve e mantém padrões para as bibliotecas que estende as features do ECMAScript (ECMA402)
 
  - (https://github.com/tc39)[https://github.com/tc39] 
  - (https://github.com/tc39/proposals)[https://github.com/tc39/proposals]
