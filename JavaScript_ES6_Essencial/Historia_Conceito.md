@@ -43,8 +43,8 @@
 
  >Ele identifica, desenvolve e mantém padrões para as bibliotecas que estende as features do ECMAScript (ECMA402)
 
- - (https://github.com/tc39)[https://github.com/tc39] 
- - (https://github.com/tc39/proposals)[https://github.com/tc39/proposals]
+ - [https://github.com/tc39](https://github.com/tc39) 
+ - [https://github.com/tc39/proposals](https://github.com/tc39/proposals)
 
  * Fluxo de proposta
    - Stage 0: strawman
