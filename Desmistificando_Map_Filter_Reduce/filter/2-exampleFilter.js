@@ -16,9 +16,13 @@ const pets = [
     }
 ]
 
-const newPets = pets.filter((pet) => {
-    return pet.age < 5
-})
+const eMenorQueCinco = (numero) => {
+    return numero < 5
+}
+
+//const newPets = pets.filter((pet) => eMenorQueCinco(pet.age));
+
+const newPets = pets.filter(({ age }) => eMenorQueCinco(age));
 
 console.log(pets);
 //[
