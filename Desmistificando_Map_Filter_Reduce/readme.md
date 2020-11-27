@@ -39,3 +39,14 @@ var newArray = arr.map(callback[, thisArg])
 ```
 
 ![Map](https://github.com/glauberfernandes/bootcamp-everis-fullstack/blob/master/Desmistificando_Map_Filter_Reduce/map.png)
+
+
+## # Array.prototype.reduce
+
+Executa uma função para cada elemento retornando um único valor de retorno.
+
+```
+var newArray = arr.reduce(callback[, valorInicial])
+```
+
+![reduce](https://github.com/glauberfernandes/bootcamp-everis-fullstack/blob/master/Desmistificando_Map_Filter_Reduce/reduce.png)
