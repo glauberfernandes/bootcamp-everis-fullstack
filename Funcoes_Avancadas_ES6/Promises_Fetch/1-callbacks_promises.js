@@ -1,12 +1,25 @@
 // promises
 
-const doSomethingPromise = new Promise((resolved, reject) => {
+const doSomethingPromise = new Promise((resolve, reject) => {
     setTimeout(function() {
         // did something
         resolve('First data');
     }, 1000);
 });
 
+const doOtherThingPromise = new Promise((resolve, reject) => {
+    setTimeout(function() {
+        // did something
+        resolve('Second data');
+    }, 1000);
+});
+
+console.log(doSomethingPromise);
+doSomethingPromise.then(data => console.log(data));
+
+// Pending
+// Fulfilled
+// Rejected
 
 // callbacks
 function doSomething(callback) {
