@@ -1,0 +1,15 @@
+{
+  "name": "QualidadeEAutomacaoDeTestes",
+  "version": "1.0.0",
+  "description": "- Testes unitários;\r  - Testes integrados;\r  - Testes funcionais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Glauber Fernandes",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
