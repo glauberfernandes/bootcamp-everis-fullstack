@@ -1,10 +1,10 @@
-let R = 3;
-let V = 1;
+let R = parseInt(gets());
+let V = parseInt(gets());
 let S = R;
 let C = 1;
 
 while(R > V) {
-    V = 20;
+    V = parseInt(gets());
 }
 
 while (S <= V) {
