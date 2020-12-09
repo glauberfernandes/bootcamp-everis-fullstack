@@ -2,7 +2,7 @@ let qnv = 0;
 let med = 0;
 
 do {
-    let n = gets();
+    let n = parseFloat(gets());
 
     if(n < 0 || n > 10) {
         console.log('nota invalida');
